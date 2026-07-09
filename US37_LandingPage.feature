@@ -1,4 +1,4 @@
-Feature: HU35 - Formulario de contacto adaptable 
+Feature: HU37 - Formulario de contacto adaptable 
 
 Como visitante de la landing page, quiero que el formulario de contacto se adapte a diferentes 
 dispositivos para poder completar y enviar mis datos sin inconvenientes. 
